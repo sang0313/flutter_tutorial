@@ -1,0 +1,8 @@
+{
+  "localization_str_01": "目前語系： {lang}",
+  "localization_str_02": "英文",
+  "localization_str_03": "繁體中文",
+  "localization_str_04": "簡體中文",
+  "localization_str_05": "目前語系： {}",
+  "localization_str_06": "Flutter 多語系"
+}

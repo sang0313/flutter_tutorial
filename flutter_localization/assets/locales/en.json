@@ -1,0 +1,8 @@
+{
+  "localization_str_01": "Current language: {lang}",
+  "localization_str_02": "English",
+  "localization_str_03": "Traditional Chinese",
+  "localization_str_04": "Simplified Chinese",
+  "localization_str_05": "Current language: {}",
+  "localization_str_06": "Flutter Localization"
+}
